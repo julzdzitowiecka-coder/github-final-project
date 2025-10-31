@@ -7,3 +7,19 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+# Installation
+# Clone the repository
+git clone https://github.com/julzdzitowiecka-coder/github-final-project.git
+
+# Navigate into the project folder
+cd microfinance
+
+# Install dependencies
+npm install
+
+# Set up environment variables
+cp .env.example .env
+
+# Start the development server
+npm run dev
